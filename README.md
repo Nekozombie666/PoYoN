@@ -1,2 +1,2 @@
 # PoYoN
-Handy 3Dprinter
+Handy 3D printer
