@@ -1,2 +1,3 @@
 # PoYoN!
-Handy 3D printer
+Portable 3D printer
+Do it your self
