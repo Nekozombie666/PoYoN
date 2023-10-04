@@ -1,5 +1,6 @@
 # PoYoN!
-![image](https://github.com/Nekozombie666/PoYoN/assets/54419831/995cb84b-c61b-4fc5-acd1-09ad67e21b09)
+
+![MOSHED-2023-10-3-1-41-34](https://github.com/Nekozombie666/PoYoN/assets/54419831/97da6006-b138-4203-af00-b51859339df4)
 
 Portable 3D printer
 
