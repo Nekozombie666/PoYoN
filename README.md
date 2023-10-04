@@ -1,4 +1,6 @@
 # PoYoN!
+![image](https://github.com/Nekozombie666/PoYoN/assets/54419831/995cb84b-c61b-4fc5-acd1-09ad67e21b09)
+
 Portable 3D printer
 
 Compact and portable
