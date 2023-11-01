@@ -8,7 +8,10 @@ Compact and portable
 
 60x60x60 build volume
 
-CoreXY
+CoreXY 
+
+Driven by nema17. 
+We plan to consider nema14 and nema11 as options in the future.
 
 Jimbal bowden drive extruder
 
