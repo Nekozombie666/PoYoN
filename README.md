@@ -17,7 +17,9 @@ Jimbal bowden drive extruder
 
 Enclosed chamber
 
-24v DC Peltier element bed
+Peltier element heat bed
+
+100W USB Power Delivery Drive
 
 Klipper firmware
 
