@@ -4,15 +4,27 @@
 
 ## Highlights
 ・Compact and portable
-・Printer size 130mm×130mm×207mm (about)_
+
+・Printer size 130mm×130mm×207mm (about)
+
 ・60x60x60 build volume
+
 ・CoreXY 
-・Driven by nema17. 
+
+・Driven by nema17
+
 ・Jimbal bowden drive extruder
+
 ・Enclosed chamber
+
 ・With heat bed
+
 ・100W USB Power Delivery Drive(TypeC)
+
 ・Klipper firmware
+
 ・With mini display
+
 ・Filament runout sensor (T.B.D.)
+
 ・Load cell z probe (T.B.D.)
