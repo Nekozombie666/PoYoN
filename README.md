@@ -1,6 +1,6 @@
 # XoYoN! (alpha2 testing) 
 
-![MOSHED-2023-10-3-1-41-34](https://github.com/Nekozombie666/PoYoN/assets/54419831/97da6006-b138-4203-af00-b51859339df4)
+![MOSHED-2024-2-25-17-42-16 (2) (1)](https://github.com/Nekozombie666/XoYoN/assets/54419831/70c9d10b-7c93-4e56-97a3-2a0bf6d4cafd)
 
 
 ## Highlights
