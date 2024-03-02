@@ -14,18 +14,18 @@
 
 ・Driven by nema17
 
-・Jimbal bowden drive extruder
+・1Axis jimbal bowden drive extruder
 
 ・Enclosed chamber
 
 ・With heat bed
 
-・100W USB Power Delivery Drive(TypeC)
+・Double side fan
+
+・140W USB Power Delivery Drive(TypeC) or 100W+40W
 
 ・Klipper firmware
 
 ・With mini display
 
-・Filament runout sensor (T.B.D.)
-
-・Load cell z probe (T.B.D.)
+・Supported Filament PLA, PETG, TPU, ABS, ASA, PA
