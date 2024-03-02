@@ -1,4 +1,4 @@
-# XoYoN! (alpha2 testing) 
+# PoYoN! (alpha2 testing) 
 
 ![MOSHED-2024-2-25-17-42-16 (2) (1)](https://github.com/Nekozombie666/XoYoN/assets/54419831/70c9d10b-7c93-4e56-97a3-2a0bf6d4cafd)
 
