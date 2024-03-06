@@ -22,7 +22,7 @@
 
 ・Double side fan
 
-・140W USB Power Delivery Drive(TypeC) 20V drive
+・140W USB Power Delivery Drive(TypeC) / 20V drive
 
 ・Klipper firmware
 
