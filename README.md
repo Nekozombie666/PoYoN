@@ -29,3 +29,6 @@
 ・With mini display
 
 ・Supported Filament PLA, PETG, TPU, ABS, ASA, PA
+
+## Contact
+https://twitter.com/OyO_Attitude
